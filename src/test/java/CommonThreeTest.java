@@ -7,6 +7,8 @@ import java.util.List;
 
 public class CommonThreeTest {
 
+    // Tests
+
     @Test
     public void test1() {
         String textFile="t1.txt";
